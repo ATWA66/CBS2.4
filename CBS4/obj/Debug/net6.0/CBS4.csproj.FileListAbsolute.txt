@@ -1,0 +1,15 @@
+C:\Users\denys\source\repos\CBS4\bin\Debug\net6.0\CBS4.exe
+C:\Users\denys\source\repos\CBS4\bin\Debug\net6.0\CBS4.deps.json
+C:\Users\denys\source\repos\CBS4\bin\Debug\net6.0\CBS4.runtimeconfig.json
+C:\Users\denys\source\repos\CBS4\bin\Debug\net6.0\CBS4.dll
+C:\Users\denys\source\repos\CBS4\bin\Debug\net6.0\CBS4.pdb
+C:\Users\denys\source\repos\CBS4\obj\Debug\net6.0\CBS4.csproj.AssemblyReference.cache
+C:\Users\denys\source\repos\CBS4\obj\Debug\net6.0\CBS4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denys\source\repos\CBS4\obj\Debug\net6.0\CBS4.AssemblyInfoInputs.cache
+C:\Users\denys\source\repos\CBS4\obj\Debug\net6.0\CBS4.AssemblyInfo.cs
+C:\Users\denys\source\repos\CBS4\obj\Debug\net6.0\CBS4.csproj.CoreCompileInputs.cache
+C:\Users\denys\source\repos\CBS4\obj\Debug\net6.0\CBS4.dll
+C:\Users\denys\source\repos\CBS4\obj\Debug\net6.0\refint\CBS4.dll
+C:\Users\denys\source\repos\CBS4\obj\Debug\net6.0\CBS4.pdb
+C:\Users\denys\source\repos\CBS4\obj\Debug\net6.0\CBS4.genruntimeconfig.cache
+C:\Users\denys\source\repos\CBS4\obj\Debug\net6.0\ref\CBS4.dll

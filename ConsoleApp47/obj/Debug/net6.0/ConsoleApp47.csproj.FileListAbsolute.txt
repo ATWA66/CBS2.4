@@ -1,0 +1,15 @@
+C:\Users\denys\source\repos\ConsoleApp47\bin\Debug\net6.0\ConsoleApp47.exe
+C:\Users\denys\source\repos\ConsoleApp47\bin\Debug\net6.0\ConsoleApp47.deps.json
+C:\Users\denys\source\repos\ConsoleApp47\bin\Debug\net6.0\ConsoleApp47.runtimeconfig.json
+C:\Users\denys\source\repos\ConsoleApp47\bin\Debug\net6.0\ConsoleApp47.dll
+C:\Users\denys\source\repos\ConsoleApp47\bin\Debug\net6.0\ConsoleApp47.pdb
+C:\Users\denys\source\repos\ConsoleApp47\obj\Debug\net6.0\ConsoleApp47.csproj.AssemblyReference.cache
+C:\Users\denys\source\repos\ConsoleApp47\obj\Debug\net6.0\ConsoleApp47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denys\source\repos\ConsoleApp47\obj\Debug\net6.0\ConsoleApp47.AssemblyInfoInputs.cache
+C:\Users\denys\source\repos\ConsoleApp47\obj\Debug\net6.0\ConsoleApp47.AssemblyInfo.cs
+C:\Users\denys\source\repos\ConsoleApp47\obj\Debug\net6.0\ConsoleApp47.csproj.CoreCompileInputs.cache
+C:\Users\denys\source\repos\ConsoleApp47\obj\Debug\net6.0\ConsoleApp47.dll
+C:\Users\denys\source\repos\ConsoleApp47\obj\Debug\net6.0\refint\ConsoleApp47.dll
+C:\Users\denys\source\repos\ConsoleApp47\obj\Debug\net6.0\ConsoleApp47.pdb
+C:\Users\denys\source\repos\ConsoleApp47\obj\Debug\net6.0\ConsoleApp47.genruntimeconfig.cache
+C:\Users\denys\source\repos\ConsoleApp47\obj\Debug\net6.0\ref\ConsoleApp47.dll
